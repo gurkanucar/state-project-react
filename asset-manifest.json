@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/state-project/static/css/main.a640842b.css",
+    "main.js": "/state-project/static/js/main.17838a25.js",
+    "static/js/787.87abde9b.chunk.js": "/state-project/static/js/787.87abde9b.chunk.js",
+    "static/media/donut.png": "/state-project/static/media/donut.5552129b4acc29cd7b0e.png",
+    "static/media/logo.svg": "/state-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/state-project/index.html",
+    "main.a640842b.css.map": "/state-project/static/css/main.a640842b.css.map",
+    "main.17838a25.js.map": "/state-project/static/js/main.17838a25.js.map",
+    "787.87abde9b.chunk.js.map": "/state-project/static/js/787.87abde9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a640842b.css",
+    "static/js/main.17838a25.js"
+  ]
+}
