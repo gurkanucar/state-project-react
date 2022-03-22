@@ -1,0 +1,29 @@
+.eat-button-component__root {
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+  gap: 50px;
+  background-color: rgb(246, 68, 62);
+  width: 10%;
+  border-radius: 20px;
+  padding: 10px;
+  transition: all 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+.eat-button-component__root:hover {
+  transform: scale(1.1);
+  background-color: rgb(255, 23, 23);
+}
+
+.eat-button-component__root:active {
+  transform: scale(1.1);
+  background-color: rgb(42, 42, 42);
+}
+
+.eat-button-component__text {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #fff;
+}
