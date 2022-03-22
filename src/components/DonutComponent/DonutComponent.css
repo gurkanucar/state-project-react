@@ -1,0 +1,18 @@
+.donut-component__root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  gap: 50px;
+}
+
+.donut-component__img {
+  width: 200px;
+  height: auto;
+}
+
+.donut-component__text {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
