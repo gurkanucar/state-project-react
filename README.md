@@ -2,7 +2,7 @@
 
 ### example image
 
-(example1.png)["./images/example1.png"]
+![example](./images/example1.png)
 
 ### `npm start`
 
